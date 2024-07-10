@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+
+.section {
+  @apply p-[26px_25px] md:p-[37px_38px];
+}
+
+@tailwind utilities;
